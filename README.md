@@ -107,7 +107,7 @@ After full training (200 epochs), you should see:
 
 ## GPU Requirements
 
-- Training: ~4GB VRAM (batch_size=64)
+- Training: ~8GB VRAM (batch_size=64)
 - Generation: ~2GB VRAM
 
 For CPU training, use `--device cpu` (much slower).
